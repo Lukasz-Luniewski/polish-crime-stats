@@ -1,2 +1,2 @@
-# polish-crime-stats
-Analysis regarding crime statistics in Poland and comparison to other geographies.
+# repo-template
+Template for repository structure to be re-used for analysis projects.
